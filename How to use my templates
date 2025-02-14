@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Use My Templates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+        }
+        .guide {
+            margin: 50px auto;
+            padding: 20px;
+            background: #222;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+            width: 50%;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="guide">
+        <h2>How to Use My Templates</h2>
+        <p>1. Download the template file from the provided link.</p>
+        <p>2. Open the file in the required software (e.g., Photoshop, Canva, or Word).</p>
+        <p>3. Customize the text, colors, and images as needed.</p>
+        <p>4. Save the modified template in your preferred format.</p>
+        <p>5. Use the template for your business, promotions, or projects!</p>
+        <a href="YOUR_TEMPLATE_STORE_LINK" class="button">Buy Now</a>
+    </div>
+</body>
+</html>
